@@ -1,5 +1,8 @@
 {
-  "version": "v0.1.2",
-  "builtAt": "2026-10-04T10:31:00.178Z",
-  "builtBy": "9ada9f44-94ad-42fa-8095-ecf7381e867a"
+  "version": "v0.1.3",
+  "builtAt": "2026-10-04T10:46:22.318Z",
+  "builtBy": "9ada9f44-94ad-42fa-8095-ecf7381e867a",
+  "files": [
+    "index.html"
+  ]
 }
